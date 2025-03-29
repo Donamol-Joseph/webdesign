@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+header{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #89a8b3;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+figure {
+    margin: 20px;
+    text-align: center;
+}
+
+figcaption {
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.description {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 22px;
+    color: gray;
+    margin-top: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #89a8b3;
+}
+
